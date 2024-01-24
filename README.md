@@ -3,6 +3,9 @@
 
 #### [Home Page](https://github.com/Sandman13sq/DmrBlenderModels/tree/main)
 
+### **Peko Pekoyama** - [GitHub](https://github.com/Sandman13sq/DmrBlenderModels/tree/main/Pekoyama)
+![Thumbnail](https://github.com/Dreamer13sq/DmrBlenderModels/blob/main/_images/thumbnail_pekoyama.png)
+
 ### **Kim Pine** - [GitHub](https://github.com/Sandman13sq/DmrBlenderModels/tree/main/KimPine) | [Exports](https://github.com/Sandman13sq/DmrBlenderModels/tree/main/KimPine/exports) | [GameBanana](https://gamebanana.com/mods/407359)
 ![Thumbnail](https://github.com/Dreamer13sq/DmrBlenderModels/blob/main/_images/thumbnail_kimpine.png)
 
